@@ -1,0 +1,12 @@
+{
+  "name": "library-test-consumer",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "repository": "git@github.com:dready/library-test-consumer.git",
+  "author": "Thomas Subera <thomas.subera@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "library-test": "git+https://github.com/dready/library-test.git",
+    "typescript": "^4.1.5"
+  }
+}
