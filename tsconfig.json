@@ -3,6 +3,7 @@
     "module": "commonjs",
     "target": "es2015",
     "declaration": true,
+    "typeRoots": ["./node_modules/library-test"],
     "outDir": "./dist"
   },
   "include": ["src/**/*"]
